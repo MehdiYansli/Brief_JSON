@@ -1,0 +1,29 @@
+{
+    "title": "Captain America",
+    "producer": "Joe Simon",
+    "time": 120,
+    "productionYear": 1971,
+    "poster": "https://static.posters.cz/image/750webp/34925.webp",
+    "festivals": [
+        "Festival 1",
+        "Festival 2",
+        "Festival 3"
+    ],
+    "actors": [
+        {
+            "firstName": "Reb",
+            "lastName": "Brown",
+            "nationality": "Américain"
+        },
+        {
+            "firstName": "Matt",
+            "lastName": "Salinger",
+            "nationality": "Américain"
+        },
+        {
+            "firstName": "Chris",
+            "lastName": "Evans",
+            "nationality": "Américain"
+        }
+    ]
+}
